@@ -2,8 +2,11 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.logging.Logger;
 
 public class Solution_6 {
+
+    final static Logger log = Logger.getLogger("Logger");
 
     static void staircase(int n) {
         String space = "";
