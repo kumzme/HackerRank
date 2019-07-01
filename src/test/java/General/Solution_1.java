@@ -1,3 +1,5 @@
+package General;
+
 import java.io.*;
 import java.math.*;
 import java.text.*;
